@@ -1,0 +1,444 @@
+{
+    "A1": [
+        {
+            "id": 1,
+            "question": "What does 'happy' mean?",
+            "answers": [
+                {
+                    "answer": "Üzgün",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sinirli",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Mutlu",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Sıkıcı",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "What does 'book' mean?",
+            "answers": [
+                {
+                    "answer": "Telefon",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Anahtar",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kitap",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Kalem",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What does 'hot' mean?",
+            "answers": [
+                {
+                    "answer": "Soğuk",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sıcak",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Nemli",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kuru",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "What does 'red' mean?",
+            "answers": [
+                {
+                    "answer": "Kırmızı",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Yeşil",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Mavi",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sarı",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What does 'cold' mean?",
+            "answers": [
+                {
+                    "answer": "Sıcak",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Nemli",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kuru",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Soğuk",
+                    "trueAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "What does 'small' mean?",
+            "answers": [
+                {
+                    "answer": "Büyük",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Küçük",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Yüksek",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Ağır",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "What does 'fast' mean?",
+            "answers": [
+                {
+                    "answer": "Yavaş",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Hızlı",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Uzun",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kısa",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "What does 'big' mean?",
+            "answers": [
+                {
+                    "answer": "Küçük",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Düşük",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Büyük",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Yüksek",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "What does 'long' mean?",
+            "answers": [
+                {
+                    "answer": "Kısa",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Hızlı",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Yavaş",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Uzun",
+                    "trueAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "What does 'old' mean?",
+            "answers": [
+                {
+                    "answer": "Genç",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Güzel",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Yaşlı",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Çirkin",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question": "What does 'new' mean?",
+            "answers": [
+                {
+                    "answer": "Yeni",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Eski",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kirli",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Temiz",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question": "What does 'fast food' mean?",
+            "answers": [
+                {
+                    "answer": "Sağlıklı yemek",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Lezzetli yemek",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Pahalı yemek",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Hızlı yemek",
+                    "trueAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question": "What does 'quiet' mean?",
+            "answers": [
+                {
+                    "answer": "Gürültülü",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sessiz",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Canlı",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sakin",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question": "What does 'fat' mean?",
+            "answers": [
+                {
+                    "answer": "Zayıf",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Şişman",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Uzun",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kısa",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question": "What does 'expensive' mean?",
+            "answers": [
+                {
+                    "answer": "Ucuz",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Güzel",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Pahalı",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Kötü",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question": "What does 'cheap' mean?",
+            "answers": [
+                {
+                    "answer": "Ucuz",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Pahalı",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kötü",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Güzel",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question": "What does 'worried' mean?",
+            "answers": [
+                {
+                    "answer": "Üzgün",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Mutlu",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Sıkıntılı",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Endişeli",
+                    "trueAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question": "What does 'sad' mean?",
+            "answers": [
+                {
+                    "answer": "Mutlu",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Güzel",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Kötü",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Üzgün",
+                    "trueAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question": "What does 'watch' mean?",
+            "answers": [
+                {
+                    "answer": "Bakmak",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Korkmak",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "İzlemek",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Uyumak",
+                    "trueAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question": "What does 'sleep' mean?",
+            "answers": [
+                {
+                    "answer": "Kaçmak",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Uyumak",
+                    "trueAnswer": true
+                },
+                {
+                    "answer": "Koşmak",
+                    "trueAnswer": false
+                },
+                {
+                    "answer": "Oturmak",
+                    "trueAnswer": false
+                }
+            ]
+        }
+    ]
+}
